@@ -1,13 +1,8 @@
 import { FC } from "react"
-import Card from "./components/Card"
-import JamalMurray from "./assets/JamalMurray.webp"
+import LoginForm from "./components/LoginForm"
 
 const App: FC = () => {
-    return (
-        <>
-            <Card id={"001"} name={"Jamal Murray"} imgUrl={JamalMurray} haveVehicle={true} />
-        </>
-    )
+    return <LoginForm />
 }
 
 export default App
