@@ -2,7 +2,7 @@
 
 ## Intro
 
-A library that provides a lot of great components
+A lib that provides a lot of great components
 
 ## Quik Start
 
