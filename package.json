@@ -1,7 +1,7 @@
 {
     "name": "wangyong-design",
     "private": false,
-    "version": "1.3.4",
+    "version": "1.4.4",
     "type": "module",
     "main": "src/components",
     "keywords": [
@@ -9,10 +9,14 @@
         "components",
         "design",
         "framework",
-        "frontend",
+        "front end",
         "react",
-        "react-component",
-        "ui"
+        "react component",
+        "ui",
+        "card",
+        "login",
+        "login form",
+        "login card"
     ],
     "scripts": {
         "dev": "vite",
