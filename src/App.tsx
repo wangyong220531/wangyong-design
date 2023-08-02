@@ -1,8 +1,8 @@
 import { FC } from "react"
-import LoginForm from "./components/LoginForm"
+import Search from "./components/Search"
 
 const App: FC = () => {
-    return <LoginForm title={"CSGO装备管理系统"} />
+    return <Search/>
 }
 
 export default App
