@@ -1,5 +1,5 @@
 import { FC, useState } from "react"
-import QJPPoliceIcon from "../../assets/qjpPolice.png"
+// import QJPPoliceIcon from "../../assets/qjpPolice.png"
 import Camera from "../../assets/camera.png"
 import Setting from "../../assets/setting.png"
 import MurrayPortrait from "../../assets/MurrayPortrait.jpg"
@@ -46,8 +46,8 @@ const Search: FC = () => {
             <div className="absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/3">
                 <div className="w-[628px] h-[124px] absolute left-1/2 -translate-x-1/2 flex flex-col justify-center gap-y-[40px] text-center">
                     <div className="flex flex-col gap-y-[8px] items-center">
-                        <img src={QJPPoliceIcon} alt="" width={100} />
-                        <div className="text-3xl text-[#233783] font-semibold">清江浦公安深海智＋涉稳重点人员看板</div>
+                        {/* <img src={QJPPoliceIcon} alt="" width={100} /> */}
+                        <div className="text-4xl text-[#233783] font-semibold">NBA PlayerHub</div>
                     </div>
                     <div className="relative">
                         <form onSubmit={submit} className="flex items-center">

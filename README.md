@@ -44,3 +44,20 @@ export dcefault Demo
 #### Preview of LoginForm
 
 ![alt](/src/assets/loginForm.png)
+
+### Search
+
+#### Usage of Search
+
+```tsx
+import { FC } from "react"
+import Search from "wangyong-design/src/components/Search"
+
+const Demo:FC = () => {
+   return <Search/>
+}
+
+export dcefault Demo
+```
+
+![alt](/src/assets//NBAPlayerHub.png)
