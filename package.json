@@ -1,7 +1,7 @@
 {
     "name": "wangyong-design",
     "private": false,
-    "version": "1.4.6",
+    "version": "1.5.7",
     "type": "module",
     "main": "src/components",
     "keywords": [
@@ -16,7 +16,9 @@
         "card",
         "login",
         "login form",
-        "login card"
+        "login card",
+        "card",
+        "gallery"
     ],
     "scripts": {
         "dev": "vite",
