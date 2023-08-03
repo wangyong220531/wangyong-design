@@ -1,6 +1,6 @@
 import { FC } from "react"
 // import Gallery, { CardProps } from "./components/Gallery"
-import Search from "./components/Search"
+import Button from "./components/Button"
 
 const App: FC = () => {
     // const cards: CardProps[] = [
@@ -109,7 +109,7 @@ const App: FC = () => {
     //         text: "Z"
     //     }
     // ]
-    return <Search/>
+    return <Button text={"按钮"}/>
 }
 
 export default App
