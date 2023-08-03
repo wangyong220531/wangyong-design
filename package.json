@@ -1,7 +1,7 @@
 {
     "name": "wangyong-design",
     "private": false,
-    "version": "1.5.7",
+    "version": "1.5.8",
     "type": "module",
     "main": "src/components",
     "keywords": [
