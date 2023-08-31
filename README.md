@@ -19,7 +19,7 @@ const Demo:FC = () => {
    return <Card id={"001"} name={"Jamal Murray"} imgUrl={JamalMurray} haveVehicle={true} />
 }
 
-export dcefault Demo
+export default Demo
 ```
 
 #### Preview of Card
